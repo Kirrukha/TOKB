@@ -1,0 +1,70 @@
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.dll
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KeyForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePasForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LabelKeyForm1.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.dll
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KeyForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LabelKeyForm1.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePasForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.dll
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.pdb
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KeyForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LabelKeyForm1.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePasForm.resources
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Ycheba\Semestr5\TOKB\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.dll
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.pdb
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KeyForm.resources
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LabelKeyForm1.resources
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePasForm.resources
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kirrukha\Downloads\lab_1 — копия\lab_1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.dll
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Functions.pdb
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KeyForm.resources
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LabelKeyForm1.resources
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangePasForm.resources
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Univer\ТОКБ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
